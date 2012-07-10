@@ -1,0 +1,1 @@
+../app/helpers/http_auth_helper.rb
